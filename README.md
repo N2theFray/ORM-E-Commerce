@@ -1,4 +1,7 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End 
+
+## Descritption
+This app is the backend portion of an E-Commerce website. Express.js was used for the server and MySQL for the database along with Sequelize as the ORM to run SQL models and queries. The SQL database includes tables for products, categories, tags, and product tags. RESTful API routes are used to make requests and updates from the database which are joined through Sequelize queries.
 
 ## Link to Video Walkthrough
 https://drive.google.com/file/d/15wqp_VIp3fpDvZVOcZZO9aVyiNEKsp6N/view
